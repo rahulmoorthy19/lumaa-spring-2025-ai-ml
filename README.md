@@ -10,7 +10,7 @@ The code uses [IMDB Top 1000](https://www.kaggle.com/datasets/harshitshankhdhar/
 
 ## Results
 ```
-Input: python recommend.py "I like action movies"
+Execution Command: python recommend.py "I like action movies"
 Output:
 Your top 5 recommended movies are:
            Movie Title  Similarity Score
