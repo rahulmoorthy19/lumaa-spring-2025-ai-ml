@@ -1,1 +1,1 @@
-The video of the movie recommendation system can be seen using this [like]("https://drive.google.com/file/d/1ro7U63EHzdWKR4yTVeA0DySFP2_425gk/view?usp=sharing").
+The video of the movie recommendation system can be seen using this [link](https://drive.google.com/file/d/1ro7U63EHzdWKR4yTVeA0DySFP2_425gk/view?usp=sharing).
