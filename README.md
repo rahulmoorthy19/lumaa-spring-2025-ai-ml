@@ -1,12 +1,12 @@
 # Movie Recommendation System
 
 ## Dataset
-The code uses [IMDB Top 1000](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows) dataset which has been already added to the repository.
+The code uses [IMDB Top 1000](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows) dataset which has been already added to the repository. The dataset loading code block is already added to the code.
 
 ## Setup
 - Python 3.8
 - Dependencies Installation - `pip install -r requirements.txt`
-- Execution Command = `python recommend.py "Some user description"`
+- Execution Command - `python recommend.py "Some user description"`
 
 ## Results
 ```
